@@ -9,7 +9,7 @@ array to print the word in reverse.
 
 /**
  *
- * @author aniru
+ * @author Anirudh
  */
 public class Main {
     public static void main(String [] args) {
